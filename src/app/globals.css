@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+    --color-green-primary: #1D3531;
+    --color-green-actived: #5D8A83;
+    --color-green-border: #2A4B46;
+    --color-green-btn: #CCEC60;
+    --color-green-title-card: #719D96;
+    --container-grid: 77.5rem;
+    --container-text-hero: 66rem;
+    --container-mockups: 59.8rem;
+    --container-area-cards: 82.5rem;
+    --container-area-icons: 53.4rem;
+    --height-hero: 54.6rem;
+    --height-area-cards: 35.1rem;
+    --background-image-hero: url('/bg-hero.svg');
+}
+
+*{
+    -webkit-font-smoothing: antialiased;
+}
